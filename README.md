@@ -5,9 +5,6 @@
   <em><b>Unverified 128x</b> is a texture pack for pvp to make gameplay look much smoother</em>
 </p>
 
----
-
-## ⚠️ **Attention**
 
 This is **NOT** a pack made for building, this pack is for PvP, eggwars, and skywars. There may be issues trying to use this pack different as some textures will not match.
 
